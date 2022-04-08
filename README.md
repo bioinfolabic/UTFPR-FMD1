@@ -105,11 +105,8 @@ With Data Augmentation
         - kid = 3216    
 
 
-## Related Papers
+## One article from this dataset was submitted to a journal, currently under review.
 
-If you use of the UTFPR-FMD1 dataset, please cite the following reference in any publications:
-
-C. Kossoski, G. H. S. Schaefer, G. Fiori, and H. S. Lopes. "A scalable analytics pipeline for COVID-19 face mask surveillance". IEEE Latin America Transactions, vol. xx, no. xx, 2022, pp. xx-xx. 
 
 
 ## Licence
