@@ -24,6 +24,8 @@ Keywords: face-mask dataset, balanced dataset, varied dataset.
 
 Dataset images and classes.
 
+![Proportion](proportion.jpg)
+
 Originals
 
 - face = 9027
