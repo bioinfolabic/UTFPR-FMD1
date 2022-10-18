@@ -109,15 +109,15 @@ With Data Augmentation
 
 ## How to cite
 @article{kossoski2022scalable,
-  author  = {C. Kossoski and G. Schaefer and Gianlucca Fiori Oliveira and H. S. Lopes},
-  title   = {A Scalable Analytics Pipeline for {COVID-19} Face Mask Surveillance},
-  journal = {Learning \& Nonlinear Models},
-  pages   = {62--73},
-  publisher = {SBIC},
-  year   = {2022},
-  volume = {20},
-  number = {1},
-  doi    = {10.21528/lnlm-vol20-no1-art5}
+  author={C. Kossoski and G. Schaefer and Gianlucca Fiori Oliveira and H. S. Lopes},
+  title={A Scalable Analytics Pipeline for {COVID-19} Face Mask Surveillance},
+  journal={Learning \& Nonlinear Models},
+  pages={62--73},
+  publisher={SBIC},
+  year={2022},
+  volume={20},
+  number={1},
+  doi={10.21528/lnlm-vol20-no1-art5}
 }
 
 
